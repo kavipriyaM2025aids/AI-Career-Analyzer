@@ -18,9 +18,20 @@ An AI-powered web application that analyzes user skills and interests to suggest
 
 ## How to Run
 
-1. Install dependencies
+### 1. Install dependencies
+
+```bash
 pip install fastapi uvicorn
-2. Start the server
+```
+
+### 2. Start the server
+
+```bash
 uvicorn app:app --reload
-3. Open in browser
+```
+
+### 3. Open in browser
+
+```text
 http://127.0.0.1:8000
+```
