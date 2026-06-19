@@ -43,9 +43,8 @@ http://127.0.0.1:8000
 
 ![User Input](User_Input.jpg)
 
-![Resume Upload Page](Resume_Upload _Page.jpg)
+![Resume Upload Page](Resume_Upload_Page.jpg)
 
-![Career Analysis Page](Career_analysis _Page.jpg)
+![Career Analysis Page](Career_analysis_Page.jpg)
 
 ![Display Result](Display_the_result.png)
-
