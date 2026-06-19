@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <h2>Career Analyzer</h2>
+
+    <input type="text" id="career" placeholder="Enter Career"><br><br>
+    <input type="text" id="skills" placeholder="Enter Skills (comma separated)"><br><br>
+
+    <button onclick="analyzeCareer()">Analyze Career</button>
+
+    <h3>Result:</h3>
+    <div id="result"></div>
+
+    <hr>
+
+    <h2>Resume Analyzer</h2>
+
+    <input type="file" id="resumeFile"><br><br>
+    <button onclick="uploadResume()">Upload Resume</button>
+
+    <h3>Resume Result:</h3>
+    <div id="resumeResult"></div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
