@@ -39,5 +39,13 @@ http://127.0.0.1:8000
 
 ## Screenshots
 
-![Authentication Page](Authentication_Page.png)
+![Authentication Page](Authentication_Page.jpg)
+
+![User Input](User_Input.jpg)
+
+![Resume Upload Page](Resume_Upload _Page.jpg)
+
+![Career Analysis Page](Career_analysis _Page.jpg)
+
+![Display Result](Display_the_result.png)
 
