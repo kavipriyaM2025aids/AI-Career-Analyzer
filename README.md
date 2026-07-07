@@ -40,21 +40,16 @@ http://127.0.0.1:8000
 ## Screenshots
 
 ##Authentication Page
-
 ![Authentication Page](Authentication_Page.jpg)
 
 ##User Input
-
 ![User Input](User_Input.jpg)
 
 ##Resume Upload Page
-
 ![Resume Upload Page](Resume_Upload_Page.jpg)
 
 ##Career Analysis Page
-
 ![Career Analysis Page](Career_analysis_Page.jpg)
 
 ##Display Result
-
 ![Display Result](Display_the_result.png)
